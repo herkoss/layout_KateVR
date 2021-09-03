@@ -8,4 +8,4 @@
 
 ## Description
 landing page for startup
-- [DEMO LINK](https://herkoss.github.io/KateVRLanding/)
+- [DEMO LINK](https://herkoss.github.io/layout_KateVR/)
